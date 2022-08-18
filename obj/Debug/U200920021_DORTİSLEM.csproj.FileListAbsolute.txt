@@ -1,0 +1,10 @@
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\bin\Debug\U200920021_DORTİSLEM.exe.config
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\bin\Debug\U200920021_DORTİSLEM.exe
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\bin\Debug\U200920021_DORTİSLEM.pdb
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.csproj.AssemblyReference.cache
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.Form1.resources
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.Properties.Resources.resources
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.csproj.GenerateResource.cache
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.csproj.CoreCompileInputs.cache
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.exe
+C:\Users\200920021\Desktop\Yusuf Yasin Demir\U200920021_DORTİSLEM\obj\Debug\U200920021_DORTİSLEM.pdb
